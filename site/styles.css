@@ -228,10 +228,60 @@ section {
   font-size: 1.15rem;
 }
 
+.service-card .from-price {
+  display: inline-block;
+  background: #fff0ea;
+  color: var(--accent-dark);
+  font-weight: 700;
+  font-size: 0.8rem;
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+
 .service-card p {
-  margin: 0;
+  margin: 0 0 18px;
   color: var(--ink-soft);
   font-size: 0.97rem;
+}
+
+.service-list {
+  list-style: none;
+  margin: 0;
+  padding: 14px 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.service-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 7px 0;
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+.service-list li .p {
+  font-weight: 700;
+  color: var(--navy);
+  white-space: nowrap;
+}
+
+.services-note {
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin: 34px 0 0;
+}
+
+.services-note a {
+  color: var(--accent-dark);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.services-note a:hover {
+  text-decoration: underline;
 }
 
 /* Pricing */
