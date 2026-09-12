@@ -306,7 +306,7 @@ See Section 6 table (Starter / Growth / All-Access).
 ### C. Key Assumptions Log (Consolidated)
 1. Solo/small-team, self-funded, single-metro launch in year one.
 2. Youth club/travel sports participation and recruiting-industry sizing figures are directional and must be replaced with sourced current data before external use.
-3. Pricing tiers ($79–$249/mo retainers, $299–$499 website fees) are a starting hypothesis to test with real prospects.
+3. Pricing tiers ($79–$249/mo retainers, $299–$499 website fees) are a starting hypothesis to test with real prospects — see Section 14 for a sourced competitive benchmark, which found pricing sits at or below market across nearly every category.
 4. Startup cost range (~$2,150–$5,850) is planning-level, based on typical small-business software/legal/marketing costs.
 5. Client ramp (3–5 new clients/month) and 12-month revenue projections are illustrative, not based on confirmed local demand data.
 6. Churn is assumed to be seasonal/transition-driven (end of season, signing with a college) rather than flat monthly churn.
@@ -336,6 +336,46 @@ Section 11 (Phase 3) flags a future self-serve software tier as a way to reach p
 | **Program/Team** | Custom (starts ~$199/mo) | Clubs, travel teams, high school programs | Everything in Family + roster-wide accounts, team branding, coach/admin dashboard, bulk footage ingestion, dedicated support |
 
 Key difference from the Section 6 model: the service tiers price founder/contractor *labor* (filming, editing, posting done for the client); this reference tier prices *software access* (the athlete/family does the work using tools NextTierAthlete builds). The two are not mutually exclusive — the service business could fund development of the self-serve product, then upsell service-tier clients into it once it exists, per the Phase 3 roadmap above.
+
+---
+
+## 14. Competitive Pricing Benchmark
+
+*Researched via live web search, September 2026. Replaces the pure "Assumption" label on pricing (Section 12, Item C.3) with sourced market comparisons — actual willingness-to-pay with real local prospects (Appendix D.1) is still unvalidated.*
+
+| Category | Competitor | Their Price | NextTierAthlete | Verdict |
+|---|---|---|---|---|
+| Full-service recruiting platform | NCSA | $2,000–$6,000+ (upfront/financed lump sum, undisclosed until sales call) | All-Access + Capture: $499 + $249–399/mo (~$3.5–5.3k/yr, month-to-month) | Comparable total annual spend at the top tier, but far more transparent and lower commitment — no upfront lump sum |
+| Recruiting profile subscription | SportsRecruits Pro | ~$600/yr (~$50/mo) | Growth: $149/mo | NextTierAthlete's mid-tier is ~3x SportsRecruits, but bundles website + posting + editing, not just a profile |
+| Recruiting website (self-serve, one-time) | Prospect Pages | $400 flat | $299–499 one-time build fee | Directly in line |
+| Recruiting website (self-serve, subscription) | University Athlete / Stack Athlete | $21–25/mo | *(bundled into retainer, not sold standalone)* | Different model — not directly comparable |
+| Recruiting website (self-serve, subscription) | ProductiveRecruit | $25/mo athlete, $99/mo+ clubs | *(bundled)* | Different model |
+| General small-business social media management | Agencies/freelancers | $500–3,000/mo; entry-level ~$750/mo for 12 posts/2 platforms | $79–399/mo for 4–8+ posts, multi-platform | **Well under market** — even the top tier is below the cheapest general agency package |
+| Sports videography, per game | Beginner freelancers | $150–400/game | $75–125/game (unedited) | Below the low end |
+| Sports videography, per game | Established/pro shops | $600–1,500/game | $150–225/game (filmed + edited) | Well below market |
+| Recruiting highlight editing | Prodigy Highlights / ProspectReels-type services | $150–199+ per video | Included in retainer, or ~$150–225 à la carte | Comparable to below |
+
+### Takeaways
+
+1. **The website build fee ($299–499) is right on market** — matches Prospect Pages' $400 flat fee almost exactly, for a more full-featured, sport-specific build than DIY tools like Wix/Squarespace.
+2. **The bundle is the real competitive edge, not any single line item.** No competitor sells website + social management + content capture together — replicating All-Access + Capture would mean stacking NCSA (or a $25/mo site tool) + a $750+/mo agency + a $150–1,500/game videographer. That combined-offer story, not price alone, is the strongest differentiator to lead with in sales conversations (Section 7).
+3. **Social media management is priced noticeably under market** ($79–399/mo vs. $750/mo+ entry-level agency pricing). Likely intentional given parent price sensitivity and no agency overhead, but it's the line item most exposed to the risk already flagged in Section 6's unit economics: founder/contractor time is "the largest cost driver," and this is the most underpriced labor relative to market.
+4. **Content Capture is the most aggressively discounted line item** ($75–225/game vs. a $150–1,500/game market range for dedicated sports videographers). Reasonable as the plan's stated "key differentiator" and a loss-leader for building the film library, but it's the tier most likely to be unprofitable per game once real travel + shoot + edit time is tracked (see Section 9's note on time cost, and Appendix D.5).
+
+**Bottom line:** pricing sits at or below market in nearly every category, which supports conversion but increases the importance of Appendix D's validation steps — particularly D.2 (pilot with 3–5 athletes) and D.5 (time-track real deliveries) — before scaling past the pilot phase.
+
+**Sources:**
+- [NCSA Cost: Families Report $2,000-$6,000+ Packages (NextCommit)](https://www.nextcommit.ai/blog/ncsa-cost)
+- [SportsRecruits for Student-Athletes](https://sportsrecruits.com/athletes#Student-Athlete-Pricing)
+- [Best College Recruiting Platforms 2026 (RawRecruit)](https://rawrecruit.io/resources/compare/best-recruiting-platforms)
+- [7 Best Website Builders for Sports & Fitness Businesses (Squarespace)](https://www.squarespace.com/blog/best-fitness-sports-website-builders)
+- [Pricing • ProductiveRecruit](https://productiverecruit.com/pricing)
+- [Pricing - University Athlete](https://universityathlete.com/pricing/)
+- [Prospect Pages | Custom Recruiting Websites](https://prospectpages.net/)
+- [Social Media Management Pricing in 2026 (WebFX)](https://www.webfx.com/blog/social-media/social-media-pricing/)
+- [Social Media Management Pricing for Business Owners (NewMedia)](https://newmedia.com/blog/social-media-marketing-cost)
+- [How Much to Charge for Sports Videography: 2026 Pricing Guide](https://insideeditors.com/how-much-to-charge-for-sports-videography/)
+- [Pricing - Prodigy Highlights](https://prodigyhighlights.com/pricing/)
 
 ---
 

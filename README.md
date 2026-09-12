@@ -28,6 +28,8 @@ Originally scoped under the working name "Prospect Path" and later rebranded to 
 
 A separate, unvalidated reference pricing model for a future self-serve *software* product (vs. the founder-fulfilled service above) is sketched in `docs/business-plan.md` Section 13, per the plan's Phase 3 roadmap.
 
+A sourced competitive pricing benchmark (NCSA, SportsRecruits, Prospect Pages, sports videographers, social media agencies) is in `docs/business-plan.md` Section 14 — pricing sits at or below market in nearly every category, with social media management and Content Capture priced most aggressively under market rate.
+
 ## Status
 
 Planning stage. See `docs/business-plan.md` Section 12, Appendix D for the current top validation priorities.
