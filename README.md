@@ -19,6 +19,7 @@ Originally scoped under the working name "Prospect Path" and later rebranded to 
 | [`docs/template-case-study.md`](docs/template-case-study.md) | Case study and reusable site-build spec based on Maxwell's recruiting site |
 | [`docs/business-plan-agent-prompt.md`](docs/business-plan-agent-prompt.md) | The original agent prompt used to generate the business plan |
 | [`docs/conversation.md`](docs/conversation.md) | Planning conversation history, including the Prospect Path → NextTierAthlete rebrand |
+| [`docs/site-intake-form.md`](docs/site-intake-form.md) | Minimal client intake form to kick off a new athlete's site build |
 
 ## Pricing (current model — see `docs/business-plan.md` Section 6)
 
