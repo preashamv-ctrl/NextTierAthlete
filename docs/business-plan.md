@@ -43,32 +43,30 @@
 
 ## 3. Solution & Product/Service Offering
 
+*Scope note: the offering below is deliberately narrowed to three core deliverables — website builds, video & photography capture, and highlight reels. Social media posting/management and NIL brand-readiness are out of scope for the current offering (dropped from an earlier draft of this plan) so the business stays focused on production, not ongoing content marketing.*
+
 ### Core Product 1: Recruiting Website
 - Individual, mobile-friendly website per athlete on a shared template system (fast to build, consistent quality, low marginal cost).
-- Standard sections: athlete bio, key stats/measurables, highlight video embed (from Hudl/YouTube/Instagram), season schedule, academic info (GPA, test scores, target majors), coach/reference contacts, photo gallery, and a direct-contact form for college coaches.
+- Standard sections: athlete bio, key stats/measurables, highlight video embed, season schedule, academic info (GPA, test scores, target majors), coach/reference contacts, photo gallery, and a direct-contact form for college coaches.
 - Custom domain option (e.g., firstlastname.com) or branded subdomain.
 - Quarterly or seasonal content refresh (new stats, new highlight clips, updated schedule).
 
-### Core Product 2: Social Media Management
-- Platform focus: Instagram and TikTok primarily (highest recruiting/NIL relevance for this age group), with X and Hudl as secondary integrations.
-- Monthly content calendar: highlight clips, game-day posts, training content, achievement announcements, and personal-brand storytelling.
-- Basic video editing/clipping of raw game or practice footage into postable highlights.
-- Light community management: consistent posting cadence, hashtag/geo-tagging strategy, engagement prompts.
-- Monthly analytics summary for parents (follower growth, engagement, reach).
-
-### Core Product 3: Content Capture (Game & Practice Video/Photography) — Key Differentiator
+### Core Product 2: Video & Photography Capture — Key Differentiator
 Unlike most competitors, who only edit footage parents supply, NextTierAthlete can shoot original film and photography on-site. This closes the single biggest gap in a typical recruiting site (an empty or thin film section) and gives the company control over its own raw content supply chain.
 - On-site filming of games and/or practices (sideline or end-zone angle depending on sport).
 - Photography coverage for action shots and a real photo gallery (vs. stock/generic graphics).
-- Same-week (or faster) turnaround: raw footage → clipped highlights → posted to website and social.
+- Same-week (or faster) turnaround: raw footage → clipped highlights → posted to the athlete's website.
 - Founder/operator presence at games also builds direct relationships with coaches and other parents — a built-in referral engine.
 
+### Core Product 3: Highlight Reels
+- Edited highlight video production from captured (or family-supplied) game and practice footage.
+- Short-form clips for quick sharing plus a longer, full recruiting-cut reel suitable for sending directly to college coaches.
+- Regular refresh cadence (monthly or quarterly, by tier) so the website's film section never goes stale.
+
 ### Add-On Services (Upsell Revenue)
-- Full highlight reel editing/production (longer cut for recruiting film, separate from social clips).
-- Recruiting guidance add-on: checklist coaching, email templates for reaching out to college coaches, camp/combine calendar planning.
-- NIL brand-readiness package: bio optimization, media kit, local sponsorship outreach templates.
+- Additional stand-alone highlight reels beyond the tier's included cadence (longer cuts, season-end reels).
 - Referral placement with partner camps, combines, or third-party recruiting/video services (revenue share).
-- À la carte content capture for non-retainer clients (single-game filming/photography packages).
+- À la carte video & photography capture for non-retainer clients (single-game filming/photography packages).
 
 ---
 
@@ -123,33 +121,34 @@ Unlike most competitors, who only edit footage parents supply, NextTierAthlete c
 
 ### Revenue Streams
 1. One-time website build fee.
-2. Recurring monthly (or seasonal, e.g., 6-month) social media management retainer.
-3. Add-on services (highlight editing, recruiting guidance, NIL package).
+2. Recurring monthly (or seasonal, e.g., 6-month) video & photography capture + highlight reel retainer.
+3. Add-on services (extra highlight reels, à la carte capture).
 4. Referral/affiliate revenue from partner camps, combines, and recruiting-adjacent services.
 
 ### Suggested Pricing Tiers
-*Assumption: pricing below is a starting hypothesis to be tested with real prospective customers, not a finalized rate card.*
+*Assumption: pricing below is a starting hypothesis to be tested with real prospective customers, not a finalized rate card. Scoped to the three core deliverables only — website build, video & photography capture, highlight reels. No social media posting/management or NIL package is included.*
 
-| Package | One-Time Website Fee | Monthly Retainer | What's Included |
+| Package | One-Time Website Build | Monthly Retainer | What's Included |
 |---|---|---|---|
-| **Starter** | $299 | $79/mo | Website build (template-based), 4 posts/month, quarterly content refresh |
-| **Growth** | $399 | $149/mo | Website build + custom domain, 8 posts/month, highlight clip editing, monthly analytics report |
-| **All-Access** | $499 | $249/mo | Everything in Growth + recruiting guidance add-on, priority turnaround, NIL bio/media kit, quarterly full highlight reel |
-| **All-Access + Capture** | $499 | $399/mo | Everything in All-Access + monthly on-site game filming/photography (1–2 games/month), guaranteed fresh film in the website's film section every month |
+| **Website Only** | $299 (template) / $499 (custom domain, premium build) | — | Recruiting website build only, no ongoing capture/reel retainer |
+| **Starter** | $299 | $99/mo | Website build + 1 game filming & photography session/month + 1 edited highlight clip/month |
+| **Growth** | $399 | $199/mo | Website build w/ custom domain + 2 game filming & photography sessions/month + monthly edited highlight clips + one full recruiting-cut highlight reel per quarter |
+| **All-Access** | $499 | $349/mo | Website build w/ custom domain + up to 4 game filming & photography sessions/month + a full recruiting-cut highlight reel every month + priority turnaround, guaranteed fresh film in the website's film section every month |
 
 - Seasonal/annual prepay discount option (e.g., 10% off for a 6-month prepay) to improve cash flow and reduce churn.
 - Sibling discount (10–15% off second athlete in the same household) to increase household lifetime value.
 
-### Content Capture — Standalone / À La Carte Pricing
-For clients not on the top retainer tier, or as a trial/entry product to build local relationships:
+### Video & Photography Capture — Standalone / À La Carte Pricing
+For clients not on a retainer tier, or as a trial/entry product to build local relationships:
 
 | Offering | Suggested Price |
 |---|---|
 | Single game filming (footage only, unedited) | $75–$125 |
 | Single game filming + edited highlight clip(s) | $150–$225 |
 | Photography-only coverage (single game) | $75–$100 |
-| Practice filming session (skills/training footage for social content) | $50–$100 |
-| Monthly capture add-on (1–2 games/month) bundled into retainer | +$150/mo (reflected in All-Access + Capture tier above) |
+| Practice filming session (skills/training footage) | $50–$100 |
+| Standalone full highlight reel (recruiting cut, from existing or captured footage) | $150–$225 |
+| Monthly capture add-on (1–2 games/month) bundled into retainer | +$150/mo (reflected in Starter tier and above) |
 
 *Assumption: capture pricing above is a starting hypothesis — validate against local competitors (independent sports photographers/videographers) and your actual per-game time cost (travel, shoot, edit) before finalizing.*
 
@@ -306,7 +305,7 @@ See Section 6 table (Starter / Growth / All-Access).
 ### C. Key Assumptions Log (Consolidated)
 1. Solo/small-team, self-funded, single-metro launch in year one.
 2. Youth club/travel sports participation and recruiting-industry sizing figures are directional and must be replaced with sourced current data before external use.
-3. Pricing tiers ($79–$249/mo retainers, $299–$499 website fees) are a starting hypothesis to test with real prospects — see Section 14 for a sourced competitive benchmark, which found pricing sits at or below market across nearly every category.
+3. Pricing tiers ($99–$349/mo retainers, $299–$499 website fees), scoped to website builds + video/photography capture + highlight reels only (no social posting/NIL), are a starting hypothesis to test with real prospects — see Section 14 for a sourced competitive benchmark, which found pricing sits at or below market across nearly every category.
 4. Startup cost range (~$2,150–$5,850) is planning-level, based on typical small-business software/legal/marketing costs.
 5. Client ramp (3–5 new clients/month) and 12-month revenue projections are illustrative, not based on confirmed local demand data.
 6. Churn is assumed to be seasonal/transition-driven (end of season, signing with a college) rather than flat monthly churn.
@@ -341,7 +340,7 @@ Key difference from the Section 6 model: the service tiers price founder/contrac
 
 ## 14. Competitive Pricing Benchmark
 
-*Researched via live web search, September 2026. Replaces the pure "Assumption" label on pricing (Section 12, Item C.3) with sourced market comparisons — actual willingness-to-pay with real local prospects (Appendix D.1) is still unvalidated.*
+*Researched via live web search, September 2026. Replaces the pure "Assumption" label on pricing (Section 12, Item C.3) with sourced market comparisons — actual willingness-to-pay with real local prospects (Appendix D.1) is still unvalidated. Note: the social media management comparison row below predates the Section 6 scope narrowing to website builds + video/photography capture + highlight reels only; it's retained for reference since it still supports takeaway #3 (this offering intentionally skips a service priced well above what NextTierAthlete charges), but is no longer something NextTierAthlete sells.*
 
 | Category | Competitor | Their Price | NextTierAthlete | Verdict |
 |---|---|---|---|---|
